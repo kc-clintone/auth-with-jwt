@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend system for JWT-Authentication app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "kaysee clintone",
+  "license": "MIT"
+}
